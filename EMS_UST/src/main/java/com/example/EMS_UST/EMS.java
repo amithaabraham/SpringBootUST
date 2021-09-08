@@ -50,6 +50,5 @@ public class EMS
 	{
 		this.eSal = eSal;
 	}
-	
-	
+
 }
